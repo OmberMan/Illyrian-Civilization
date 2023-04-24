@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Nation icons/Illyria
+NationIcons/Illyria
   rotate: false
   xy: 4, 4
   size: 100, 100

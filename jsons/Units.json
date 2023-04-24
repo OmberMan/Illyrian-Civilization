@@ -11,7 +11,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
                 "promotions": ["[Sibyna Spearman] Ability"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses", "[1] Movement point cost to disembark", "Can transform to [Lembos]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses", "Can transform to [Lembos]"],
 		"attackSound": "metalhit"
 	},
           {

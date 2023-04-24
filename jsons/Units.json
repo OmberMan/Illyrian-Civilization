@@ -23,7 +23,7 @@
 		"strength": 8,
 		"cost": 35,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "[+15]% Strength bonus for [Land] units within [1] tiles", "May withdraw before melee ([33]%)", "May capture killed [Water] units", "Ignores Zone of Control"],
+		"uniques": ["Cannot enter ocean tiles", "[+15]% Strength bonus for [Land] units within [1] tiles", "May withdraw before melee ([33]%)", "May capture killed [Water] units <with [15]% chance>", "Ignores Zone of Control"],
                 "promotions": ["Coastal Raider"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",

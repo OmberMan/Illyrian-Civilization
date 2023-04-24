@@ -1,0 +1,17 @@
+[
+	{
+                "name": "Sibyna Spearman",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Illyria",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+                "promotions": ["[Sibyna Spearman] Ability"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+]

@@ -11,20 +11,21 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "Get Fucked.",
-		"attacked": "Get Fucked.",
+		"attacked": "There's a Snake in my Ass",
 		"defeated": "Fuck.",
-		"introduction": "Get Fucked.",
+		"introduction": "What is my purpose?",
 
-		"neutralHello": "Get Fucked.",
-		"hateHello": "Get Fucked.",
+		"neutralHello": "Pirates are heading to your current location right now.",
+		"hateHello": "Get fucked.",
 
-		"tradeRequest": "Get Fucked.",
+		"tradeRequest": "Normally I'd just pirate it but idk...",
 
 		"outerColor": [100,180,220],
 		"innerColor": [20,120,121],
 		"favoredReligion": "Islam",
 		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth.",
 		"uniques": ["Earn [33]% of killed [Water] unit's [cost] as [Gold]", "[+1] movement <in [Coastal] tiles>", "[+1 Gold] for every [Coast]", "No movement cost to pillage <for [Water] units>"],
+                uniqueText: "Units are faster in coastal tiles, and coasts yield +1 [Gold]. Receive 1/3 of the cost of enemy water units, and Illyrian naval units pillage for free.",
 		"cities": ["Dyrrhachion","Skodra","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
         "spyNames": ["Somebody fucking kill me", "Fiddledeedee", "Yarr Harr"]
 	},

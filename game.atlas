@@ -11,14 +11,14 @@ NationIcons/Illyria
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Unis/Lembos
+TileSets/FantasyHex/Units/Lembos
   rotate: false
   xy: 328, 72
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Unis/Sibyna Spearman
+TileSets/FantasyHex/Units/Sibyna Spearman
   rotate: false
   xy: 328, 32
   size: 32, 32

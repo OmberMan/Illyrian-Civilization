@@ -24,7 +24,7 @@
 		"innerColor": [20,120,121],
 		"favoredReligion": "Islam",
 		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth.",
-		"uniques": ["Earn [33]% of killed [Water] unit's [cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1] movement <in [Coast] tiles>", "[+1 Gold] for every [Coast]", "No movement cost to pillage <for [Water] units>"],
+		"uniques": ["Earn [33]% of killed [Water] unit's [cost] as [Gold]", "[+1] movement <in [Coastal] tiles>", "[+1 Gold] for every [Coast]", "No movement cost to pillage <for [Water] units>"],
 		"cities": ["Dyrrhachion","Skodra","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
         "spyNames": ["Somebody fucking kill me", "Fiddledeedee", "Yarr Harr"]
 	},

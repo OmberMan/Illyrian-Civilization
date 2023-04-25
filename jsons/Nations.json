@@ -24,9 +24,9 @@
 		"innerColor": [20,120,121],
 		"favoredReligion": "Islam",
 		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth.",
-		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1 Gold] for every [Coast]", "No movement cost to pillage <for [Water] units>"],
+		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1 Gold] from every [Coast]", "No movement cost to pillage <for [Water] units>"],
                 "uniqueText": "Units are faster in coastal tiles, and coasts yield +1 [Gold]. Receive 1/3 of the cost of enemy water units, and Illyrian naval units pillage for free.",
-		"cities": ["Dyrrhachion","Skodra","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
+		"cities": ["Skodra","Dyrrhachion","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
         "spyNames": ["Somebody fucking kill me", "Fiddledeedee", "Yarr Harr"]
 	},
 ]

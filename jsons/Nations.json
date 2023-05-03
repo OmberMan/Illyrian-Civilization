@@ -3,7 +3,7 @@
 "name": "Illyria",
 		"leaderName": "Tetua",
 		"adjective": ["Illyrian"],
-		"startBias": ["Coastal"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
                 "style": "Mediterranean",
 

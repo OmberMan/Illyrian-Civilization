@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-                "promotions": ["[Sibyna Spearman] Ability"],
+                "promotions": ["[Vilified] Ability"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses", "Can transform to [Lembos]"],
 		"attackSound": "metalhit"
 	},

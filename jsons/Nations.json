@@ -11,19 +11,19 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "Get Fucked.",
-		"attacked": "There's a Snake in my Ass",
-		"defeated": "Fuck.",
-		"introduction": "What is my purpose?",
+		"attacked": "What? \n\n\nWhat? \n\nI'm gonna flay your men and use you to patch up our sails.",
+		"defeated": "What was the point of all this? Were we the heroes?",
+		"introduction": "I am Queen Tetua, and this is a robbery.",
 
 		"neutralHello": "Pirates are heading to your current location right now.",
 		"hateHello": "Get fucked.",
 
-		"tradeRequest": "Normally I'd just pirate it but idk...",
+		"tradeRequest": "Normally I'd just pirate it but I'm feeling generous...",
 
 		"outerColor": [100,180,220],
 		"innerColor": [20,120,121],
 		"favoredReligion": "Islam",
-		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth.",
+		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth \n\n     -Duke u Egërsuar botën e krimit Born Shqipy Botim shqip©",
 		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1 Gold] from every [Coast]", "No movement cost to pillage <for [Water] units>"],
                 "uniqueText": "Units are faster in coastal tiles, and coasts yield +1 [Gold]. Receive 1/3 of the cost of enemy water units, and Illyrian naval units pillage for free.",
 		"cities": ["Skodra","Dyrrhachion","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],

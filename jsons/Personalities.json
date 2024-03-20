@@ -2,12 +2,12 @@
 {
                 "name": "My next commit is gonna be to an institution",
                 "preferredVictoryType": "Domination",
-                "food": 5,
+                "food": 6,
                 "production": 4,
                 "gold": 8,
                 "culture": 4,
                 "science": 3,
-                "faith": 3,
+                "faith": 4,
                 "military": 7,
                 "warMongering": 8,
       "priorities": {

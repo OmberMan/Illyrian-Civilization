@@ -4,6 +4,7 @@
 		"leaderName": "Tetua",
 		"adjective": ["Illyrian"],
 		"startBias": ["Coast"],
+	        "personality": "My next commit is gonna be to an institution",
 		"preferredVictoryType": "Domination",
                 "style": "Mediterranean",
 
@@ -11,7 +12,7 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "Get Fucked.",
-		"attacked": "What? \n\n\nWhat? \n\nI'm gonna flay your men and use you to patch up our sails.",
+		"attacked": "What? \n\n\nWhat?",
 		"defeated": "What was the point of all this? Were we the heroes?",
 		"introduction": "I am Queen Tetua, and this is a robbery.",
 

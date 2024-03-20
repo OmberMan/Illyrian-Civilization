@@ -10,5 +10,8 @@
                 "faith": 3,
                 "military": 7,
                 "warMongering": 8
+      "priorities": {
+    "Exploration": 20
+}
         },  
 ]

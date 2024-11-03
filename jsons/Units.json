@@ -10,6 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
+        "uniques": ["[Target Unit] gains the [Ensnared!] status for [2] turn(s) <with [50]% chance> <upon damaging a [Land] unit>"],
                 "promotions": ["Vilified"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses", "Can transform to [Lembos]"],
 		"attackSound": "metalhit"
@@ -23,10 +24,10 @@
 		"strength": 8,
 		"cost": 35,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "[+15]% Strength bonus for [Land] units within [1] tiles", "May withdraw before melee ([33]%)", "May capture killed [Water] units <with [15]% chance>", "Ignores Zone of Control"],
+		"uniques": ["Cannot enter ocean tiles", "[+25]% Strength bonus for [Land] units within [1] tiles", "May withdraw before melee ([33]%)", "May capture killed [Water] units <with [15]% chance>", "Ignores Zone of Control"],
                 "promotions": ["Landing Party"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
-	},
+	}
 ]

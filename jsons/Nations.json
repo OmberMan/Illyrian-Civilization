@@ -8,7 +8,7 @@
 		"preferredVictoryType": "Domination",
                 "style": "Mediterranean",
 
-		"startIntroPart1": "",
+		"startIntroPart1": "My next commit is gonna be to an institution",
 		"startIntroPart2": "",
 
 		"declaringWar": "Get Fucked.",
@@ -22,7 +22,7 @@
 		"tradeRequest": "Normally I'd just pirate it but I'm feeling generous...",
 
 		"outerColor": [100,180,220],
-		"innerColor": [20,120,121],
+		"innerColor": [120,20,61],
 		"favoredReligion": "Islam",
 		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth \n\n     -Duke u Egërsuar botën e krimit Born Shqipy Botim shqip©",
 		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "[+1 Gold] from every [Coast]", "No movement cost to pillage <for [Water] units>"],

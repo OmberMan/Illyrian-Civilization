@@ -1,10 +1,14 @@
 [
 {
 		"name": "Vilified",
-		"uniques": ["May attack when embarked", "[+20]% Strength <in [Coastal] tiles>", "May capture killed [Land] units <with [15]% chance>", "[1] Movement point cost to disembark"]
+		"uniques": ["May attack when embarked", "[+15]% Strength <in [Coastal] tiles>", "May capture killed [All] units <with [20]% chance>", "[1] Movement point cost to disembark"]
 	},
          {
         "name": "Ensnared!",
         "uniques": ["[-1] Movement"]
-    }
+    },
+{
+"name": "Ardiaei",
+        "uniques": ["[+1] Movement <in [Hill] tiles>"]
+}
 ]

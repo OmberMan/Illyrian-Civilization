@@ -12,11 +12,11 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "Get Fucked.",
-		"attacked": "What? \n\n\nWhat?",
+		"attacked": "You're going to war in the Balkans? \nAlright pal.",
 		"defeated": "What was the point of all this? Were we the heroes?",
 		"introduction": "I am Queen Tetua, and this is a robbery.",
 
-		"neutralHello": "Pirates are heading to your current location right now.",
+		"neutralHello": "Do you have a reason for coming here?",
 		"hateHello": "Get fucked.",
 
 		"tradeRequest": "Normally I'd just pirate it but I'm feeling generous...",
@@ -24,9 +24,10 @@
 		"outerColor": [100,180,220],
 		"innerColor": [120,20,61],
 		"favoredReligion": "Islam",
-		"uniqueName": "Time to incessantly commit piracy and then disappear off the face of the Earth \n\n     -Duke u Egërsuar botën e krimit Born Shqipy Botim shqip©",
-		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "All newly-trained [Land] units [in all coastal cities] receive the [Amphibious] promotion", "All newly-trained [Land] units [in all cities] receive the [Ardiaei] promotion <in cities on [Hill] tiles>", "[+1 Gold] from every [Coast]", "No movement cost to pillage <for [Water] units>"],
-                "uniqueText": "Units are faster in coastal tiles; Land units built in coastal cities Receive the amphibious promotion, and those built in cities on hills receive no movement penalty from them. Steal 1/3 of the gold cost of killed enemy water units, and naval units can pillage for free.",
+//Time to incessantly commit piracy and then disappear off the face of the Earth \n\n     -Duke u Egërsuar botën e krimit
+		"uniqueName": "Born Shqipy Botim shqip",
+		"uniques": ["Earn [33]% of killed [Water] unit's [Cost] as [Gold]", "[+1] Movement <in [Coastal] tiles>", "All newly-trained [Land] units [in all coastal cities] receive the [Amphibious] promotion", "All newly-trained [Land] units [in all cities] receive the [Ardiaei] promotion <in cities on [Hill] tiles>", "Earn [50]% of killed [All] unit's [Cost] as [Gold] <when fighting in [Friendly] tiles>", "No movement cost to pillage <for [Water] units>"],
+                "uniqueText": "Units are faster in coastal tiles; Land units built in coastal cities Receive the amphibious promotion, and those built in cities on hills receive no movement penalty from them. Steal 1/3 of the gold cost of killed enemy water units, and 1/2 the cost of units killed in your territory.",
 		"cities": ["Skodra","Dyrrhachion","Daorson", "Horizon", "Lissos","Bouthoe","Olcinia"],
         "spyNames": ["Somebody fucking kill me", "Fiddledeedee", "Yarr Harr"]
 	},
